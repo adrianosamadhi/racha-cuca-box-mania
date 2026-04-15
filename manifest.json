@@ -1,10 +1,14 @@
 {
   "name": "Racha Cuca: Box Mania",
   "short_name": "Box Mania",
+  "description": "Um jogo de puzzle desafiante onde deves empurrar as caixas para os pontos indicados. Testa o teu raciocínio!",
   "start_url": "./",
   "display": "standalone",
+  "orientation": "portrait",
+  "id": "/racha-cuca-box-mania/",
   "theme_color": "#0f172a",
   "background_color": "#0f172a",
+  "categories": ["games", "entertainment"],
   "icons": [
     {
       "src": "icon-192.png",
@@ -23,6 +27,15 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Ecrã principal do Box Mania"
     }
   ]
 }

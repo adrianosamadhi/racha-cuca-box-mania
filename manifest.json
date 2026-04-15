@@ -3,8 +3,8 @@
   "short_name": "Box Mania",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#0f172a",
   "theme_color": "#0f172a",
+  "background_color": "#0f172a",
   "icons": [
     {
       "src": "icon-192.png",
@@ -17,6 +17,12 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
+    },
+    {
+      "src": "icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }

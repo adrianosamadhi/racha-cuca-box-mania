@@ -8,7 +8,8 @@
   "id": "/racha-cuca-box-mania/",
   "theme_color": "#0f172a",
   "background_color": "#0f172a",
-  "categories": ["games", "entertainment"],
+  "categories": ["games", "puzzle"],
+  "iarc_rating_id": "",
   "icons": [
     {
       "src": "icon-192.png",
